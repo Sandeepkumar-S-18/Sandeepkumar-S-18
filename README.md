@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development with JAVA.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sandeepku-s](https://github.com/sandeepku-s)
+- 👨‍💻 All of my projects are available at [my repository](https://github.com/sandeepku-s?tab=repositories)
 
 - 📫 How to reach me **sandeep6361460@gmail.com**
 

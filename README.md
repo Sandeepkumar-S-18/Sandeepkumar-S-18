@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development with JAVA.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sandeepku-s?tab=repositories](https://github.com/sandeepku-s?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories.](https://github.com/sandeepku-s?tab=repositories)
 
 - 📫 How to reach me **sandeep6361460@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/sandeepku-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepku-s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandeepkumar-s-233721241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandeepkumar S" height="30" width="40" /></a>
 <a href="https://www.instagram.com/s_a_n_d_e_p___/?utm_source=qr&igsh=MWduOHQ1MTY1aDk5aA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_a_n_d_e_p___" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@s_a_n_d_e_p___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="s_a_n_d_e_p___" height="30" width="40" /></a>
 </p>

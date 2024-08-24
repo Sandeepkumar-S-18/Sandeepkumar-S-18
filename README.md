@@ -29,7 +29,7 @@
 <a href="https://x.com/s_a_n_d_e_p___" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-</div>  ite](./img/instagram-dark.svg)](https://www.linkedin.com/in/sandeepkumar-s-233721241/-dark-mode-only)
+</div>
 
 <br />
 

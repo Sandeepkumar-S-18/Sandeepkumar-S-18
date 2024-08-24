@@ -50,7 +50,11 @@
 ### 📺 YouTube Videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Things🧐😱](https://youtube.com/playlist?list=PLh4fm5C9WDJ3ZDRn_w2R5lRsaKUd5FTq4&si=tTxAzV3bbxLK8BF_)
+- [Transmission line voltage and current.](https://www.youtube.com/watch?v=p5t0OWYk0Rc)
+- [Management as a Science, Art &amp; Profession.](https://www.youtube.com/watch?v=xXD6OGR2q_I)
+- [Trend and Challenge on SOC Design.](https://www.youtube.com/watch?v=n4NVCv90HxE)
+- [The os.path Module.](https://www.youtube.com/watch?v=VrtpCtoVhx4)
+- [The os.path Module.](https://www.youtube.com/watch?v=VrtpCtoVhx4)
 <!-- BLOG-POST-LIST:END -->
 
 ---

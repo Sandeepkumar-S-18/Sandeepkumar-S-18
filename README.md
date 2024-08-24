@@ -1,10 +1,10 @@
-# Hi👋 there, I'm Sandeepkumar S  
+<h1 align="center">Hi 👋, I'm Sandeepkumar S</h1> 
 
-## I am a student at SVCE in Bengaluru. I am pursuing in Electronics and Communication Engineering.
+<h3 align="center">I am a student at SVCE in Bengaluru. I am pursuing in Electronics and Communication Engineering.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepku-s" alt="fhj" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepku-s" alt="sandeepku-s" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently Full Stack Web Development with JAVA.
 - 🔭 I’m currently working on [Air Pollution Monitoring System.](https://github.com/sandeepku-s/Air-pollution-monitoring-system)
@@ -13,17 +13,23 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@S_a_n_d_e_p___-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@S_a_n_d_e_p___-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://x.com/s_a_n_d_e_p___?t=zavTG7VBW_1idGhUluqVpA&s=09h-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://x.com/s_a_n_d_e_p___?t=zavTG7VBW_1idGhUluqVpA&s=09-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sandeepkumar-s-233721241/-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sandeepkumar-s-233721241/-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.linkedin.com/in/sandeepkumar-s-233721241/-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.linkedin.com/in/sandeepkumar-s-233721241/-dark-mode-only)
+<div align="left">
+<a href="https://linkedin.com/in/sandeepkumar-s-233721241" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/s_a_n_d_e_p___" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/sandeepku-s" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@s_a_n_d_e_p___" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/s_a_n_d_e_p___" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>  ite](./img/instagram-dark.svg)](https://www.linkedin.com/in/sandeepkumar-s-233721241/-dark-mode-only)
 
 <br />
 

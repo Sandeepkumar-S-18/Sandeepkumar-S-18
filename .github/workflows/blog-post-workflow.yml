@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLh4fm5C9WDJ3ZDRn_w2R5lRsaKUd5FTq4,https://www.youtube.com/feeds/videos.xml?channel_id=UCWho_mui_t7FFDM0_WGyCvQ"
+          feed_list: "https://github.com/sandeepku-s/JAVA-Practice,https://github.com/sandeepku-s/Python-practice,https://github.com/sandeepku-s/Air-pollution-monitoring-system"

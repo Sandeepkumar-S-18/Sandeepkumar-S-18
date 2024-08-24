@@ -10,9 +10,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Air Pollution Monitoring System.](https://github.com/sandeepku-s/Air-pollution-monitoring-system)  
-- 🌱 I’m currently learning Full Stack Web Development with JAVA.  
-- 👨‍💻 All of my projects are available at [My Repositories.](https://github.com/sandeepku-s?tab=repositories)  
+- 🔭 I’m currently working on [Air Pollution Monitoring System.](https://github.com/sandeepku-s/Air-pollution-monitoring-system)
+  
+- 🌱 I’m currently learning Full Stack Web Development with JAVA.
+  
+- 👨‍💻 All of my projects are available at [My Repositories.](https://github.com/sandeepku-s?tab=repositories)
+  
 - 📫 How to reach me [sandeep6361460@gmail.com](sandeep6361460@gmail.com)
 
 ### Languages and Tools:  

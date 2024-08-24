@@ -55,6 +55,12 @@
 
 ---
 
+### GitHub Stats
+
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sandeepku-s&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -71,13 +77,5 @@
 <!--START_SECTION:activity-->
 - [My JAVA - Practice](https://github.com/sandeepku-s/JAVA-Practice)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sandeepku-s&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 
 </details>

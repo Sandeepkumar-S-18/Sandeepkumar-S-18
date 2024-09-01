@@ -9,7 +9,7 @@
 - 🌱 I’m currently Full Stack Web Development with JAVA.
 - 🔭 I’m currently working on [Air Pollution Monitoring System.](https://github.com/sandeepku-s/Air-pollution-monitoring-system)
 - 👨‍💻 All of my projects are available at [My Repositories.](https://github.com/sandeepku-s?tab=repositories)
-- 📝 This is [my Resume.]{https://github.com/sandeepku-s/sandeepku-s/blob/main/Resume.pdf}
+- 📝 This is [my Resume.](https://github.com/sandeepku-s/sandeepku-s/blob/main/Resume.pdf)
 - 📫 How to reach me [sandeep6361460@gmail.com](sandeep6361460@gmail.com)
 
 ### Connect with me:

@@ -55,7 +55,7 @@
 - [Management as a Science, Art &amp; Profession.](https://www.youtube.com/watch?v=xXD6OGR2q_I)
 - [Trend and Challenge on SOC Design.](https://www.youtube.com/watch?v=n4NVCv90HxE)
 - [The os.path Module.](https://www.youtube.com/watch?v=VrtpCtoVhx4)
-- [The os.path Module.](https://www.youtube.com/watch?v=VrtpCtoVhx4)
+- [Solar Photovoltaic Systems.](https://www.youtube.com/watch?v=StR-5tvpcro)
 <!-- BLOG-POST-LIST:END -->
 
 ---

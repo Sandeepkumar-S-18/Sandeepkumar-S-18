@@ -17,21 +17,11 @@
 ### Connect with me:
 
 <div align="left">
-<a href="https://linkedin.com/in/sandeepkumar-s-233721241" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/s_a_n_d_e_p___" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/sandeepku-s" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@s_a_n_d_e_p___" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://x.com/s_a_n_d_e_p___" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+<a href="https://linkedin.com/in/sandeepku-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepku-s" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@s_a_n_d_e_p___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@s_a_n_d_e_p___" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sandeepk_engg18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandeepk_engg18" height="30" width="40" /></a>
+<a href="https://instagram.com/s_a_n_d_e_p___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_a_n_d_e_p___" height="30" width="40" /></a>
+<a href="https://twitter.com/s_a_n_d_e_p___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_a_n_d_e_p___" height="30" width="40" /></a>
 </div>
 
 <br />

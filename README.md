@@ -61,9 +61,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- YOUTUBE:START -->
-- [My Python - Practice](https://github.com/sandeepku-s/Python-practice)
-- [My JAVA - Practice](https://github.com/sandeepku-s/JAVA-Practice)
 - [Mini-project "Air Pollution Monitoring System"](https://github.com/sandeepku-s/Air-pollution-monitoring-system)
+- [My Python - Practice](https://github.com/sandeepku-s/Python-practice)
 <!-- YOUTUBE:END -->
 
 ---

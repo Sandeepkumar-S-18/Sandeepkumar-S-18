@@ -71,7 +71,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-- [My JAVA - Practice](https://github.com/sandeepku-s/JAVA-Practice)
+- [My Python - Practice](https://github.com/sandeepku-s/Python-practice)
 <!--END_SECTION:activity-->
 
 </details>

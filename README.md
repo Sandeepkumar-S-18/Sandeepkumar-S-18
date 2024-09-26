@@ -43,7 +43,7 @@
 ### 📺 YouTube Videos
 
 <!-- BLOG-POST-LIST:START -->
-- [| DIP enables self-driving cars to understand their environment. |](https://www.youtube.com/watch?v=HWkXZXqfNu4)
+- [DIP enables self-driving cars to understand their environment.](https://www.youtube.com/watch?v=HWkXZXqfNu4)
 - [Transmission line voltage and current.](https://www.youtube.com/watch?v=p5t0OWYk0Rc)
 - [Management as a Science, Art &amp; Profession.](https://www.youtube.com/watch?v=xXD6OGR2q_I)
 - [Trend and Challenge on SOC Design.](https://www.youtube.com/watch?v=n4NVCv90HxE)

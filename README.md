@@ -43,11 +43,11 @@
 ### 📺 YouTube Videos
 
 <!-- BLOG-POST-LIST:START -->
+- [VLSI Design of UART &lpar;Universal Asynchronous Receiver Transmitter&rpar;.](https://www.youtube.com/watch?v=_EyZl9yJGMQ)
+- [Types of Optical Fiber Based on Refractive Index, Propagation of Light and Materials Used.](https://www.youtube.com/watch?v=ANKlTFyJ8TE)
 - [Secure Shell &lpar;SSH&rpar;.](https://www.youtube.com/watch?v=beX8JteoiqM)
 - [Environmental Management System and Its Applications.](https://www.youtube.com/watch?v=NQGRMSatkh0)
 - [DIP enables self-driving cars to understand their environment.](https://www.youtube.com/watch?v=HWkXZXqfNu4)
-- [Transmission line voltage and current.](https://www.youtube.com/watch?v=p5t0OWYk0Rc)
-- [Management as a Science, Art &amp; Profession.](https://www.youtube.com/watch?v=xXD6OGR2q_I)
 <!-- BLOG-POST-LIST:END -->
 
 ---

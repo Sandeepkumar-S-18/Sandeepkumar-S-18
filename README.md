@@ -9,7 +9,7 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently Full Stack Web Development with JAVA.
-- 🔭 I’m currently working on an [E-Commerce](https://github.com/sandeepku-s/E-commerce-GUI) GUI and JDBC Java project.
+- 🔭 I’m currently working on an FrontEnd project.
 
 
 - 👨‍💻 All of my projects are available at [My Repositories.](https://github.com/sandeepku-s?tab=repositories)

@@ -56,7 +56,7 @@
 
 ---
 
-### 📈 GitHub Stats 📊
+### 📈 GitHub Profile Stats 📊
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepku-s&show_icons=true&locale=en&layout=compact" alt="sandeepku-s" height="200" /></p>
   

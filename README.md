@@ -62,10 +62,12 @@
 
 ### 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
 - [Simple Calculator](https://github.com/sandeepku-s/Calculator)
 - [Grocery_Mart-"CSS-Template"](https://github.com/sandeepku-s/Grocery_Mart___CSS-Template)
 - [Furniture-"HTML-Template"](https://github.com/sandeepku-s/HTML-Furniture_templete)
 - [Mini-project "Air Pollution Monitoring System"](https://github.com/sandeepku-s/Air-pollution-monitoring-system)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

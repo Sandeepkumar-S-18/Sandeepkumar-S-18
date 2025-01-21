@@ -42,13 +42,8 @@
 
 ### 📺 YouTube Videos
 
-<!-- BLOG-POST-LIST:START -->
-- [VLSI Design of UART &lpar;Universal Asynchronous Receiver Transmitter&rpar;.](https://www.youtube.com/watch?v=_EyZl9yJGMQ)
-- [Types of Optical Fiber Based on Refractive Index, Propagation of Light and Materials Used.](https://www.youtube.com/watch?v=ANKlTFyJ8TE)
-- [Secure Shell &lpar;SSH&rpar;.](https://www.youtube.com/watch?v=beX8JteoiqM)
-- [Environmental Management System and Its Applications.](https://www.youtube.com/watch?v=NQGRMSatkh0)
-- [DIP enables self-driving cars to understand their environment.](https://www.youtube.com/watch?v=HWkXZXqfNu4)
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ---
 
@@ -63,10 +58,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Calculator](https://github.com/sandeepku-s/Calculator)
-- [Grocery_Mart-"CSS-Template"](https://github.com/sandeepku-s/Grocery_Mart___CSS-Template)
-- [Furniture-"HTML-Template"](https://github.com/sandeepku-s/HTML-Furniture_templete)
-- [Mini-project "Air Pollution Monitoring System"](https://github.com/sandeepku-s/Air-pollution-monitoring-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---

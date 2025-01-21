@@ -11,7 +11,7 @@
 - 🌱 I’m currently Full Stack Web Development with JAVA.
 - 🔭 I’m currently working on an FrontEnd project.
 - 👨‍💻 All of my projects are available at [My Repositories.](https://github.com/sandeepku-s?tab=repositories)
-- 📝 This is [my Resume.](https://github.com/sandeepku-s/sandeepku-s/blob/main/Resume.pdf)
+- 📝 This is [my Resume.](https://drive.google.com/drive/my-drive)
 - 📫 How to reach me [sandeep6361460@gmail.com](sandeep6361460@gmail.com)
 
 ---
@@ -33,9 +33,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/sandeepku-s/sandeepku-s/blob/main/Images/SQL%20img.png" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sandeepku-s/sandeepku-s/blob/main/Images/Bootstrap%20img.png" alt="bootstrap" width="40" height="40"/> </a>
 </div>
 <br />
 

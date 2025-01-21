@@ -58,16 +58,13 @@
 
 ### 📈 GitHub Profile Stats 📊
 
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepku-s&show_icons=true&locale=en&layout=compact" alt="sandeepku-s" height="200" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepku-s&show_icons=true&locale=en&layout=compact" alt="sandeepku-s" height="200" /></p>
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepku-s&show_icons=true&locale=en" alt="sandeepku-s" height="200" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepku-s&show_icons=true&locale=en" alt="sandeepku-s" height="200" /></p>
   
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### ⚡ Recent GitHub Activity
   
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-</details>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

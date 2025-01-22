@@ -40,22 +40,6 @@
 
 ---
 
-### 📺 YouTube Videos
-
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_EyZl9yJGMQ"><img width="140px" src="https://i.ytimg.com/vi/_EyZl9yJGMQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_EyZl9yJGMQ">VLSI Design of UART &lpar;Universal Asynchronous Receiver Transmitter&rpar;.</a><br/>Nov 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ANKlTFyJ8TE"><img width="140px" src="https://i.ytimg.com/vi/ANKlTFyJ8TE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ANKlTFyJ8TE">Types of Optical Fiber Based on Refractive Index, Propagation of Light and Materials Used.</a><br/>Nov 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=beX8JteoiqM"><img width="140px" src="https://i.ytimg.com/vi/beX8JteoiqM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=beX8JteoiqM">Secure Shell &lpar;SSH&rpar;.</a><br/>Nov 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NQGRMSatkh0"><img width="140px" src="https://i.ytimg.com/vi/NQGRMSatkh0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NQGRMSatkh0">Environmental Management System and Its Applications.</a><br/>Nov 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=HWkXZXqfNu4"><img width="140px" src="https://i.ytimg.com/vi/HWkXZXqfNu4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HWkXZXqfNu4">DIP enables self-driving cars to understand their environment.</a><br/>Sep 23, 2024</td></tr></table>
-<!-- YOUTUBE:END -->
-
----
-
 ### 📈 GitHub Profile Stats 📊
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepku-s&show_icons=true&locale=en&layout=compact" alt="sandeepku-s" height="200" /></p>

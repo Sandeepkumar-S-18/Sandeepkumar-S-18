@@ -11,7 +11,7 @@
 - 🌱 I’m currently Full Stack Web Development with JAVA.
 - 🔭 I’m currently working on an [FrontEnd project.](https://github.com/sandeepku-s/ShoppyKart-template)
 - 👨‍💻 All of my projects are available at [My Repositories.](https://github.com/sandeepku-s?tab=repositories)
-- 📝 This is [my Resume.](https://drive.google.com/file/d/1ZIy0ISNbFD6fcszg9oWzQ6iO5ohjQDnG/view?usp=drive_link)
+- 📝 This is [my Resume.](https://drive.google.com/file/d/1u1V5_eTFyZwxv6q3028E1Rt_pUAqqlu0/view?usp=drive_link)
 - 📫 How to reach me [sandeep6361460@gmail.com](sandeep6361460@gmail.com)
 
 ---

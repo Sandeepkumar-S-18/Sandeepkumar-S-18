@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeepkumar S</h1> 
 
-<h3 align="center">I am a student at SVCE in Bengaluru. I am pursuing in Electronics and Communication Engineering.</h3>
+<h3 align="center">Electronics and Communication Engineering Student | Full Stack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepku-s&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepku-s" /> </p>
 
@@ -8,14 +8,17 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently Full Stack Web Development with JAVA.
-- 🔭 I’m currently working on an [FrontEnd project.](https://github.com/sandeepku-s/ShoppyKart-template)
-- 👨‍💻 All of my projects are available at [My Repositories.](https://github.com/sandeepku-s?tab=repositories)
-- 📝 This is [my Resume.](https://drive.google.com/file/d/1u1V5_eTFyZwxv6q3028E1Rt_pUAqqlu0/view?usp=drive_link)
-- 📫 How to reach me [sandeep6361460@gmail.com](sandeep6361460@gmail.com)
+---
+
+### 🚀 About Me  
+- 🌱 Currently learning **Full Stack Web Development with Java**  
+- 🔭 Working on a **[FrontEnd project](https://github.com/sandeepku-s/ShoppyKart-template)**  
+- 👨‍💻 Explore all my projects in **[My Repositories](https://github.com/sandeepku-s?tab=repositories)**  
+- 📝 Check out **[My Resume](https://drive.google.com/file/d/1u1V5_eTFyZwxv6q3028E1Rt_pUAqqlu0/view?usp=drive_link)**  
+- 📫 Reach me via **[Contact](mailto:sandeep6361460@gmail.com)**  
 
 ---
-### Connect with me:
+### 🔗 Connect with Me:
 
 <div align="left">
 <a href="https://linkedin.com/in/sandeepku-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepku-s" height="30" width="40" /></a>
@@ -27,7 +30,7 @@
 
 <br />
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <div align="left">
   <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="40" /></a>
@@ -49,10 +52,10 @@
 ---
 
 ### ⚡ Recent GitHub Activity
-  
-<!--START_SECTION:activity-->
+
+- [Smart Wireless Water Meter with Web DB](https://github.com/sandeepku-s/Smart_wireless_water_meter_with_Web_DB)
+- [ShoppyKart](https://github.com/sandeepku-s/ShoppyKart-template)
 - [Simple Calculator](https://github.com/sandeepku-s/Calculator)
 - [Grocery_Mart-"CSS-Template"](https://github.com/sandeepku-s/Grocery_Mart___CSS-Template)
 - [Furniture-"HTML-Template"](https://github.com/sandeepku-s/HTML-Furniture_templete)
 - [Mini-project "Air Pollution Monitoring System"](https://github.com/sandeepku-s/Air-pollution-monitoring-system)
-<!--END_SECTION:activity-->

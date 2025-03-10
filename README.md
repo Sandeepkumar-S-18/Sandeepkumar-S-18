@@ -12,7 +12,7 @@
 
 ### 🚀 About Me  
 - 🌱 Currently learning **Full Stack Web Development with Java**  
-- 🔭 Working on a **[FrontEnd project](https://github.com/sandeepku-s/ShoppyKart-template)**  
+- 🔭 Working on a **[Full stack project](https://github.com/sandeepku-s/XenzKart--Full-stack-project)**  
 - 👨‍💻 Explore all my projects in **[My Repositories](https://github.com/sandeepku-s?tab=repositories)**  
 - 📝 Check out **[My Resume](Images/Sandeep_Resume.pdf)**  
 - 📫 Reach me via **[Contact](mailto:sandeep6361460@gmail.com)**  
@@ -45,9 +45,15 @@
 
 ### 📈 GitHub Profile Stats 📊
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepku-s&show_icons=true&locale=en&layout=compact" alt="sandeepku-s" height="200" /></p>
-  
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepku-s&show_icons=true&locale=en" alt="sandeepku-s" height="200" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sandeepku-s&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="sandeepku-s" height="200" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sandeepku-s&show_icons=true&locale=en&cache_seconds=3600" alt="sandeepku-s" height="200" />
+</p>
+
+<div style="clear: both;"></div>
   
 ---
 

@@ -38,7 +38,6 @@
   <a href="#"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="#"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="#"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="#"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="#"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="#"><img align="center" src="Images/Bootstrap img.png" alt="Bootstrap" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="#"><img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino IDE" height="40" width="40" /></a>&nbsp;&nbsp;

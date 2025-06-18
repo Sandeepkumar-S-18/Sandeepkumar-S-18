@@ -1,34 +1,46 @@
 <h1 align="center">Hi 👋, I'm Sandeepkumar S</h1> 
 
-<h3 align="center">Electronics and Communication Engineering Student | Full Stack Java Developer</h3>
+<h3 align="center">🚀 Electronics and Communication Engineering Graduate | Full Stack Java Developer | Open to Work</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sandeepkumar-S-18&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeepkumar-S-18" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Sandeepkumar-S-18&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeepkumar-S-18" /> 
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandeepkumar-S-18" alt="Sandeepkumar-S-18" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandeepkumar-S-18" alt="Sandeepkumar-S-18" /></a> 
+</p>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/sandeepku-s" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me  
+- 🎯 **Open to opportunities** in **Java development**, **Web development**, and **IoT-based systems**
+- 🌱 Currently learning **Full Stack Web Development with Java**
+- 💡 Strong skills in **Java, Python, JSP, Servlets, MySQL, HTML, CSS, JavaScript**
+- 🔭 Working on:
+  - 🔹 [XenzKart – Full Stack Java Web App](https://github.com/Sandeepkumar-S-18/XenzKart--Full-stack-project)
+  - 🔹 [Smart Wireless Water Meter with Web DB](https://github.com/Sandeepkumar-S-18/Smart_wireless_water_meter_with_Web_DB)
+- 🛠️ Exploring Embedded C, IoT, and Signal Processing
+- 👨‍💻 Explore all my work in **[My Repositories](https://github.com/Sandeepkumar-S-18?tab=repositories)**
+- 📄 Check out my **[Resume](Images/Sandeep_Resume.pdf)**  
+- 📫 Contact me: [sandeep6361460@gmail.com](mailto:sandeep6361460@gmail.com)
 
 ---
 
-### 🚀 About Me  
-- 🌱 Currently learning **Full Stack Web Development with Java**  
-- 🔭 Working on a **[Full stack project](https://github.com/Sandeepkumar-S-18/XenzKart--Full-stack-project)** and **[Smart wireless water meter with Web DB](https://github.com/Sandeepkumar-S-18/Smart_wireless_water_meter_with_Web_DB)**.
-- 👨‍💻 Explore all my projects in **[My Repositories](https://github.com/Sandeepkumar-S-18?tab=repositories)**  
-- 📝 Check out **[My Resume](Images/Sandeep_Resume.pdf)**  
-- 📫 Reach me via **[Contact](mailto:sandeep6361460@gmail.com)**  
-
----
 ### 🔗 Connect with Me:
 
 <div align="left">
 <a href="https://linkedin.com/in/sandeepku-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@s_a_n_d_e_p___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sandeep6361460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hacker rank" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sandeep6361460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 <a href="https://instagram.com/s_a_n_d_e_p___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://twitter.com/s_a_n_d_e_p___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </div>
 
-<br />
+---
 
 ### 🛠️ Languages and Tools:
 
@@ -47,25 +59,38 @@
 
 ---
 
-### 📈 GitHub Profile Stats 📊
+### 🌟 Featured Projects:
+
+- 🔧 [Smart Wireless Water Meter with Web DB](https://github.com/Sandeepkumar-S-18/Smart_wireless_water_meter_with_Web_DB)
+- 🛒 [XenzKart – Full Stack E-commerce Java Project](https://github.com/Sandeepkumar-S-18/XenzKart--Full-stack-project)
+- 🖥️ [ShoppyKart – Frontend Project](https://github.com/Sandeepkumar-S-18/ShoppyKart-template)
+- 🧮 [Simple Calculator in JavaScript](https://github.com/Sandeepkumar-S-18/Calculator)
+- 🛍️ [Grocery Mart – CSS Template](https://github.com/Sandeepkumar-S-18/Grocery_Mart___CSS-Template)
+- 🪑 [Furniture – HTML Template](https://github.com/Sandeepkumar-S-18/HTML-Furniture_templete)
+
+---
+
+### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sandeepkumar-S-18&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="Sandeepkumar-S-18" height="200" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sandeepkumar-S-18&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="Top Languages" height="200" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sandeepkumar-S-18&show_icons=true&locale=en&cache_seconds=3600" alt="Sandeepkumar-S-18" height="200" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sandeepkumar-S-18&show_icons=true&locale=en&cache_seconds=3600" alt="GitHub Stats" height="200" />
 </p>
 
 <div style="clear: both;"></div>
-  
+
 ---
 
-### ⚡ Recent GitHub Activity
+### 🔥 GitHub Activity & Contributions
 
-- [Smart Wireless Water Meter with Web DB](https://github.com/Sandeepkumar-S-18/Smart_wireless_water_meter_with_Web_DB)
-- [XenzKart-"Full stack project"](https://github.com/Sandeepkumar-S-18/XenzKart--Full-stack-project)
-- [ShoppyKart-"FrontEnd project"](https://github.com/Sandeepkumar-S-18/ShoppyKart-template)
-- [Simple Calculator](https://github.com/Sandeepkumar-S-18/Calculator)
-- [Grocery_Mart-"CSS-Template"](https://github.com/Sandeepkumar-S-18/Grocery_Mart___CSS-Template)
-- [Furniture-"HTML-Template"](https://github.com/Sandeepkumar-S-18/HTML-Furniture_templete)
+<p>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sandeepkumar-S-18&theme=default_repocard&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sandeepkumar-S-18&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contribution Stats" />
+</p>
+

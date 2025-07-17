@@ -18,11 +18,9 @@
 
 ### 👨‍💻 About Me  
 - 🎯 **Open to opportunities** in **Java development**, **Web development**, and **IoT-based systems**
-- 🌱 Currently learning **Full Stack Web Development with Java**
+- 🌱 Currently learning **Spring Boot**
 - 💡 Strong skills in **Java, Python, JSP, Servlets, MySQL, HTML, CSS, JavaScript**
-- 🔭 Working on:
-  - 🔹 [XenzKart – Full Stack Java Web App](https://github.com/Sandeepkumar-S-18/XenzKart--Full-stack-project)
-  - 🔹 [Smart Wireless Water Meter with Web DB](https://github.com/Sandeepkumar-S-18/Smart_wireless_water_meter_with_Web_DB)
+- 🔭 Working on: [**EduTrack – Student & Course Management System.**](https://github.com/Sandeepkumar-S-18/EduTrack-Student_and_Course_Management_System)
 - 🛠️ Exploring Embedded C, IoT, and Signal Processing
 - 👨‍💻 Explore all my work in **[My Repositories](https://github.com/Sandeepkumar-S-18?tab=repositories)**
 - 📄 Check out my **[Resume](Images/Sandeep_Resume.pdf)**  
@@ -54,7 +52,8 @@
   <a href="#"><img align="center" src="Images/Bootstrap img.png" alt="Bootstrap" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="#"><img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino IDE" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans IDE" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="#"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" width="40" /></a>
+  <a href="#"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="#"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" height="40" width="40" /></a>
 </div>
 
 ---

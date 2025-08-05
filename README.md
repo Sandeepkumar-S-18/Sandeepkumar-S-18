@@ -20,7 +20,7 @@
 - 🎯 **Open to opportunities** in **Java development**, **Web development**, and **IoT-based systems**
 - 🌱 Currently learning **Spring Boot**
 - 💡 Strong skills in **Java, Python, JSP, Servlets, MySQL, HTML, CSS, JavaScript**
-- 🔭 Working on: [**ERP System for Inventory and Sales Management.**](https://github.com/Sandeepkumar-S-18/ERP-System-for-Inventory-and-Sales-Management)
+- 🔭 Working on: **Spring Boot projects.**
 - 🛠️ Exploring Embedded C, IoT, and Signal Processing
 - 👨‍💻 Explore all my work in **[My Repositories](https://github.com/Sandeepkumar-S-18?tab=repositories)**
 - 📄 Check out my **[Resume](Images/Sandeep_Resume.pdf)**  

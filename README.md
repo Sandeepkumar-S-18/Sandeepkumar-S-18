@@ -71,6 +71,11 @@
   </a>
   
 
+  <a href="https://github.com/Sandeepkumar-S-18/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeepkumar-S-18&repo=portfolio&theme=default_repocard" />
+  </a>
+  
+
   <a href="https://github.com/Sandeepkumar-S-18/Bookstore-Management-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeepkumar-S-18&repo=Bookstore-Management-System&theme=default_repocard" />
   </a>
@@ -78,16 +83,6 @@
 
   <a href="https://github.com/Sandeepkumar-S-18/XenzKart--Full-stack-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeepkumar-S-18&repo=XenzKart--Full-stack-project&theme=default_repocard" />
-  </a>
-  
-
-  <a href="https://github.com/Sandeepkumar-S-18/Smart_wireless_water_meter_with_Web_DB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeepkumar-S-18&repo=Smart_wireless_water_meter_with_Web_DB&theme=default_repocard" />
-  </a>
-  
-
-  <a href="https://github.com/Sandeepkumar-S-18/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeepkumar-S-18&repo=portfolio&theme=default_repocard" />
   </a>
   
 </p>

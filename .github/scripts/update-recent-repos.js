@@ -2,7 +2,7 @@ const fs = require('fs');
 const { Octokit } = require('@octokit/rest');
 
 const username = 'Sandeepkumar-S-18';
-const maxRepos = 5;
+const maxRepos = 4;
 const readmePath = 'README.md';
 const theme = 'default_repocard'; // you can change theme if you like
 

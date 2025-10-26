@@ -1,0 +1,30 @@
+name: Update Recent Repos
+on:
+  schedule:
+    - cron: "0 0 * * *"     # daily at 00:00 UTC (change if you want)
+  workflow_dispatch:        # allows manual run from Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate recent repos section
+        uses: aquiladev/github-readme-recent-repos@v3
+        with:
+          username: Sandeepkumar-S-18
+          max_repos: 5
+          sort: updated         # sort by last updated (most recent first)
+          readme_path: README.md
+          section_name: recent_repos
+          include_forks: false  # ignore forked repos
+          include_private: false
+
+      - name: Commit & push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🧩 Update recent repositories list"
+          branch: ${{ github.ref_name }}

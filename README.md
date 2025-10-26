@@ -63,16 +63,6 @@
 ### 🌟 Featured Projects
 
 <!--START_SECTION:recent_repos-->
-- [Sandeepkumar-S-18](https://github.com/Sandeepkumar-S-18/Sandeepkumar-S-18) — No description  
-  ⭐ 0 • Updated 10/26/2025
-- [Bookstore-Management-System](https://github.com/Sandeepkumar-S-18/Bookstore-Management-System) — No description  
-  ⭐ 0 • Updated 10/26/2025
-- [XenzKart--Full-stack-project](https://github.com/Sandeepkumar-S-18/XenzKart--Full-stack-project) — 🛒 E-commerce web application with product display, cart management, and checkout functionality using HTML, CSS, JavaScript and JAVA.  
-  ⭐ 2 • Updated 10/14/2025
-- [Smart_wireless_water_meter_with_Web_DB](https://github.com/Sandeepkumar-S-18/Smart_wireless_water_meter_with_Web_DB) — 💧 An IoT-based Smart Water Meter system for real-time monitoring of water quality (pH, TDS) and flow rate using ESP32 and Arduino UNO. It includes automatic motor control, cloud logging via ThingSpeak, and a web dashboard for remote access.  
-  ⭐ 4 • Updated 9/12/2025
-- [portfolio](https://github.com/Sandeepkumar-S-18/portfolio) — No description  
-  ⭐ 0 • Updated 8/20/2025
 <!--END_SECTION:recent_repos-->
 
 ---

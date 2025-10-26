@@ -1,8 +1,9 @@
-name: Update Recent Repos (Custom)
+name: Update Recent Repos (Auto Card Style)
+
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch: # Manual trigger
 
 jobs:
   update:
@@ -13,9 +14,9 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: 20
 
-      - name: Install deps
+      - name: Install dependencies
         run: npm install @octokit/rest
 
       - name: Run update script
@@ -26,4 +27,5 @@ jobs:
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🧩 Update recent repositories list"
+          commit_message: "🌟 Auto-update recent featured projects"
+          branch: main

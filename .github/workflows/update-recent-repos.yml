@@ -1,30 +1,29 @@
-name: Update Recent Repos
+name: Update Recent Repos (Custom)
 on:
   schedule:
-    - cron: "0 0 * * *"     # daily at 00:00 UTC (change if you want)
-  workflow_dispatch:        # allows manual run from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate recent repos section
-        uses: aquiladev/github-readme-recent-repos@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          username: Sandeepkumar-S-18
-          max_repos: 5
-          sort: updated         # sort by last updated (most recent first)
-          readme_path: README.md
-          section_name: recent_repos
-          include_forks: false  # ignore forked repos
-          include_private: false
+          node-version: '20'
+
+      - name: Install deps
+        run: npm install @octokit/rest
+
+      - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/update-recent-repos.js
 
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🧩 Update recent repositories list"
-          branch: ${{ github.ref_name }}

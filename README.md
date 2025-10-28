@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandeepkumar-S-18&theme=algolia&column=6&margin-w=10&margin-h=10" alt="github trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandeepkumar-S-18" alt="Sandeepkumar-S-18" /></a>
 </p>
 
 <p align="center">

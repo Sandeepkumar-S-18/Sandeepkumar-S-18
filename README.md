@@ -66,13 +66,13 @@
 
 <p align="left">
   
-  <a href="https://github.com/Sandeepkumar-S-18/Intern-and-Batch-Data-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeepkumar-S-18&repo=Intern-and-Batch-Data-Management-System&theme=default_repocard" />
+  <a href="https://github.com/Sandeepkumar-S-18/Sandeepkumar-S-18">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeepkumar-S-18&repo=Sandeepkumar-S-18&theme=default_repocard" />
   </a>
   
 
-  <a href="https://github.com/Sandeepkumar-S-18/Sandeepkumar-S-18">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeepkumar-S-18&repo=Sandeepkumar-S-18&theme=default_repocard" />
+  <a href="https://github.com/Sandeepkumar-S-18/Intern-and-Batch-Data-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeepkumar-S-18&repo=Intern-and-Batch-Data-Management-System&theme=default_repocard" />
   </a>
   
 

@@ -2,7 +2,7 @@ name: Update Recent Repos (Auto Card Style)
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
+    - cron: "0 0 * * 0" # Runs every Sunday at midnight UTC
   workflow_dispatch: # Manual trigger
 
 jobs:
@@ -27,5 +27,5 @@ jobs:
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🌟 Auto-update recent featured projects"
+          commit_message: "🧩 Update recent repositories list"
           branch: main

@@ -63,24 +63,10 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sandeepkumar-S-18&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sandeepkumar-S-18&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="Top Languages" />
 </p>
-
 <p>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sandeepkumar-S-18&show_icons=true&locale=en&cache_seconds=3600" alt="GitHub Stats" height="200" />
-</p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sandeepkumar-S-18&show_icons=true&locale=en&cache_seconds=3600" alt="GitHub Stats" />
 
-<div style="clear: both;"></div>
-
----
-
-### 🔥 GitHub Activity & Contributions
-
-<p>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sandeepkumar-S-18&theme=default_repocard&hide_border=false" alt="GitHub Streak" />
 </p>
-
-<p>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sandeepkumar-S-18&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contribution Stats" />
-</p>
-

@@ -1,32 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sandeepkumar S</h1> 
 
-<h3 align="center">🚀 Engineering Graduate | Full Stack Java Developer | Open to Work</h3>
+<h3 align="center">Full Stack Java Developer | Spring Boot | Open to Opportunities</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Sandeepkumar-S-18&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeepkumar-S-18" /> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandeepkumar-S-18" alt="Sandeepkumar-S-18" /></a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sandeepku-s" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
 ### 👨‍💻 About Me  
-- 🎯 **Open to opportunities** in **Java Backend development**, **Web development**, and **IoT-based systems**
+- 🎯 **Open to opportunities** in **Java Backend development**, **Web development**, and **Software development**
 - 🌱 Currently learning **Spring Security**
-- 💡 Strong skills in **Spring Boot, Java, Python, JSP, Servlets, MySQL, HTML, CSS, JavaScript**
-- 🔭 Working on: **Spring Boot projects.**
-- 🛠️ Exploring Embedded C, IoT, and Signal Processing
-- 👨‍💻 Explore all my work in **[My Repositories](https://github.com/Sandeepkumar-S-18?tab=repositories)**
-- 📄 Check out my **[Resume](Images/Sandeep_Resume.pdf)**  
-- 📫 Contact me: [tech.sandeep18@gmail.com](mailto:tech.sandeep18@gmail.com)
+- 💡 Experienced with **Spring Boot, Java, Python, JSP, Servlets, MySQL, HTML, CSS, JavaScript**
+- 🔭 Building **Spring Boot–based applications**
+- 👨‍💻 Projects: **[GitHub Repositories](https://github.com/Sandeepkumar-S-18?tab=repositories)**
+- 📄 **[Resume](Images/Sandeep_Resume.pdf)**  
+- 📫 **tech.sandeep18@gmail.com**
 
 ---
 
@@ -51,9 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" height="40" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />&nbsp;&nbsp;
-  <img src="Images/Bootstrap img.png" alt="Bootstrap" height="40" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="40" width="40" />&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans IDE" height="40" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="40" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" height="40" width="40" />
 </div>
@@ -64,8 +49,7 @@
 
 <p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sandeepkumar-S-18&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="Top Languages" />
-</p>
-<p>
+  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sandeepkumar-S-18&show_icons=true&locale=en&cache_seconds=3600" alt="GitHub Stats" />
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sandeepkumar-S-18&theme=default_repocard&hide_border=false" alt="GitHub Streak" />
